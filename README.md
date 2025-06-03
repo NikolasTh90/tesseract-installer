@@ -17,7 +17,7 @@ A powerful and intelligent bash script that builds [Tesseract OCR](https://githu
 
 ```bash
 # Download the script
-curl -O https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/build_tesseract.sh
+curl -O https://raw.githubusercontent.com/NikolasTh90/tesseract-installer/main/build_tesseract.sh
 chmod +x build_tesseract.sh
 
 # Check current status
